@@ -1,0 +1,5 @@
+add class='nopin' to image code, eg:
+
+<img class='nopin' src="https://c1.staticflickr.com/5/4319/35968863432_8becca78cb_b.jpg" />
+
+<img src="your-image.png" nopin="nopin">

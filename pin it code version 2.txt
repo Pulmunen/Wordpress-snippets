@@ -1,0 +1,34 @@
+
+/* Code by Shareaholic.com */
+jQuery(document).ready(function($) {
+ $(".vp-preview img").attr("data-pin-nopin", "true");
+});
+
+<?php
+	document.getElementsByClassName("vp-preview");
+vp-preview.setAttribute('data-pin-nopin', 'true');
+?>
+.vp-preview
+
+https://i.vimeocdn.com/video/864576382.jpg?mw=1100&mh=619&q=70
+
+class vp-preview
+{
+
+}
+document.getElementsByClassName("vp-preview").setAttribute("data-pin-nopin", "true");
+
+class vp-preview
+
+    
+    {
+        $attributes = array(
+            'data-pin-nopin' => true,
+         
+        );
+       
+    
+
+$dynamic = new Dynamic;
+$dynamic->load();
+echo '<pre>'; var_dump($dynamic); ec

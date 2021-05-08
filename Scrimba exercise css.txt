@@ -1,0 +1,111 @@
+.active {
+
+    box-shadow: -2px 6px 18px 3px rgba(0,0,0,0.75);
+
+}
+
+
+#hall-of-fame {
+
+    display:block;
+
+    height: 100%;
+
+    width:100%;
+
+    background-color:rgba(0,0,0,0.75);
+
+    z-index: 999;
+
+    position:absolute;
+
+    left:0;
+
+    top:0;
+
+}
+
+#congratulations {
+
+     background-color:lightgoldenrodyellow;
+
+     display:block;
+
+     height:70%;
+
+     width:70%;
+
+     margin:10% auto;
+
+     padding:30px;;
+
+
+}
+
+
+#you-won{
+
+    margin:0;
+
+    text-align:center;
+
+}
+
+
+#podium{
+
+    display:flex;
+
+    flex-direction:row;
+
+    align-items:flex-end;
+
+
+#bronze{
+
+Background-color:}
+
+
+_______________
+
+
+Cursor:pointer;
+
+
+Max-width for the modal itself
+
+Margin: 0 auto;
+
+Height:200px;
+
+Max-width:600px;
+
+
+
+Overlay
+
+Display:none;
+
+Width:100%
+
+Height:100%
+
+Position:absolute;
+
+Top:0;
+
+Left:0;
+
+Bottom:0;
+
+Right:0;
+
+
+Modal 
+
+Position: relative;
+
+Top:30%
+	
+	
+	
